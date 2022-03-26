@@ -20,14 +20,14 @@ body {
 	display: grid;
 	height: 100%;
 	width: 100%;
-	grid-template-columns: repeat(3, minmax(2vw, 1fr));
-	grid-auto-rows: minmax(100px, auto);
-	gap: 20px;
+	/*grid-template-columns: repeat(3, minmax(2vw, 1fr));
+	grid-auto-rows: minmax(100px, auto);*/
+	gap: 10px;
 }
 
-/* Screen larger than 400px? 1 column*/
-@media (min-width: 400px) {
-  .menu { grid-template-columns: 1fr; }
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 900px) {
+  .menu { grid-template-columns: repeat(3, 1fr); }
 }
 
 /* Screen larger than 600px? 2 column */
@@ -35,9 +35,9 @@ body {
   .menu { grid-template-columns: repeat(2, 1fr); }
 }
 
-/* Screen larger than 900px? 3 columns */
-@media (min-width: 900px) {
-  .menu { grid-template-columns: repeat(3, 1fr); }
+/* Screen larger than 400px? 1 column*/
+@media (min-width: 400px) {
+  .menu { grid-template-columns: 1fr; }
 }
 
 .card {
