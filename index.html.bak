@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Véronique Rolland</title>
+	<link rel="stylesheet" href="style.css"/>
+	<script src="script.js"></script>
+  </head>
+  <body>
+    <div class="menu">
+		<div class="card">	
+			<img src="images/pave-titre1.png" alt="titre1" class="image">
+			<div class="overlay">
+				<div class="text">
+				<h1>conception graphique</h1>
+				<p>Assurer la mise en valeur et la notoriété d'une marque.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card">	
+			<img src="images/pave-titre2.png" alt="titre2" class="image">
+			<div class="overlay">
+				<div class="text">
+				<h1>Gestion de projet</h1>
+				<p>Travailler en équipe permet de donner plus d'empleur aux idées.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<img src="images/pave-titre3.png" alt="titre3" class="image">
+			<div class="overlay">
+				<div class="text">
+				<h1>production numérique audio</h1>
+				<p>La musique demande une rigueur mathématique et un lâcher prise créatif.</p>
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<img src="images/pave-titre4.png" alt="titre4" class="image">
+			<div class="overlay">
+				<div class="text">
+				<h1>production numérique vidéo</h1>
+				<p>"... une minute de vidéo équivaut à 1,8 million de mots..."</p>
+				<p><span class="sign">James McQuivey</span></p>
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<img src="images/pave-titre5.png" alt="titre5" class="image">
+			<div class="overlay">
+				<div class="text">
+				<h1>développement web & programmation</h1>
+				<p>Les techniques front-end et back-end nécessaires à la réalisation d'un site.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="card">
+			<img src="images/pave-titre6.png" alt="titre6" class="image">
+			<div class="overlay">
+				<div class="text">
+				<h1>créativité</h1>
+				<h1>curiosité intellectuelle</h1>
+				<h1>expression orale/écrite</h1>
+				<h1>réflexivité</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+  </body>
+</html>
+
+
