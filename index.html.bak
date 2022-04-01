@@ -17,11 +17,11 @@
 	<div class="menu"></div>
     <div class="main-contener">
 		<div class="card">	
-			<img src="images/pave-titre1.png" alt="titre1" class="image">
+			<img src="images/pave-titre1.png" alt="image1" class="image">
 			<div class="overlay">
 				<div class="text">
 				<p>En savoir plus...</p>
-				<img src="images/QRCode.png" alt="titre1" class="image">
+				<a href="https://www.linkedin.com/in/v%C3%A9ronique-rouault-b80194110/"><img src="images/QRCode.png" alt="titre1" class="image"></a>
 				</div>
 			</div>
 		</div>
@@ -77,7 +77,7 @@
 	</div>
 	<div class="menu"></div>
 	<div class="footer">
-	<p>Copyrights@2022</p>
+	<p>© 2022 by Véronique Rolland</p>
 	</div>
   </body>
 </html>
