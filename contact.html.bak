@@ -31,7 +31,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.png">
 
-
+ 
 
 </head>
 <body>
@@ -61,7 +61,7 @@
 			<h2 class="value-multiplier">Conception graphique</h2>
 			<h5 class="value-heading">Création numérique et print</h5>
 			<p class="value-description">Vous accompagner dans la création de votre marque</p>
-			<a class="button button-primary" href="graphique.html">En savoir plus...</a>
+			<a class="button button-primary" href=".../graphique.html">En savoir plus...</a>
         </div>
         <div class="one-third column value">
 			<h2 class="value-multiplier">Production audio-visuelle</h2>
@@ -81,7 +81,7 @@
 
   <div class="section get-help">
     <div class="container">
-      <h2 class="value-multiplier">Communication et développement Web</h2>
+      <h3 class="value-multiplier">Développement et communication web "all in one"</h3>
 	  <h5 class="value-heading">Votre site sous WordPress</h5>
       <p class="section-description">Concervoir ensemble tous les élements de votre image de marque et la présence en ligne qui vous ressemble.</p>
       <a class="button button-primary" href="#">En savoir plus...</a>
@@ -90,8 +90,8 @@
 
   <div class="section categories">
     <div class="container">
-      
-      <p class="section-description">2022@Com'vous émoi - communication visuelle et sonore</p>
+      <h5 class="section-heading">2022@VéroniqueRolland</h5>
+      <p class="section-description">Com'vous émoi - communication visuelle et sonore</p>
     </div>
   </div>
 <!-- End Document

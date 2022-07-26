@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Véronique Rolland</title>
+  <title>Com' vous émoi</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -44,8 +44,8 @@
       <div class="row">
         <div class="one-half column">
 		<img src="images/ComVousEmoiLogo.png">
-          <h4 class="hero-heading">La communication qui vous ressemble et nous rassemble.</h4>
-          <a class="button button-primary" target="_blank" href="https://en.calameo.com/read/006678129770256dfa119">En savoir plus...</a>
+			<h4 class="hero-heading">Votre communication vous ressemble autant qu'elle nous rassemble ! </h4>
+			<a class="button button-primary" target="_blank" href="https://www.linkedin.com/in/v%C3%A9ronique-rouault-b80194110/">Contactons-nous...</a>
         </div>
         <div class="one-half column phones">
 			<img class="laptop" src="images/laptop.png">
@@ -57,20 +57,23 @@
   <div class="section values">
     <div class="container">
       <div class="row">
-        <div class="one-third column value">
-          <h2 class="value-multiplier">Conception graphique</h2>
-          <h5 class="value-heading">Création numérique et print</h5>
-          <p class="value-description">Vous accompagner dans la création de votre marque.</p>
+		<div class="one-third column value">
+			<h2 class="value-multiplier">Conception graphique</h2>
+			<h5 class="value-heading">Création numérique et print</h5>
+			<p class="value-description">Vous accompagner dans la création de votre marque</p>
+			<a class="button button-primary" href="graphique.html">En savoir plus...</a>
         </div>
         <div class="one-third column value">
-          <h2 class="value-multiplier">Production audio-visuelle</h2>
-          <h5 class="value-heading">Teaser vidéo et tutoriels</h5>
-          <p class="value-description">Mettre en valeur votre image sur des supports vidéo.</p>
+			<h2 class="value-multiplier">Production audio-visuelle</h2>
+			<h5 class="value-heading">Teaser vidéo et tutoriels</h5>
+			<p class="value-description">Mettre en valeur votre image sur des supports vidéo.</p>
+			<a class="button button-primary" href="#">En savoir plus...</a>
         </div>
         <div class="one-third column value">
-          <h2 class="value-multiplier">Production sonore</h2>
-          <h5 class="value-heading">Créations musicales</h5>
-          <p class="value-description">La musique sur tous les tons, au service de votre entreprise.</p>
+			<h2 class="value-multiplier">Production sonore</h2>
+			<h5 class="value-heading">Créations musicales</h5>
+			<p class="value-description">La musique sur tous les tons, au service de votre entreprise.</p>
+			<a class="button button-primary" href="#">En savoir plus...</a>
         </div>
       </div>
     </div>
@@ -78,17 +81,16 @@
 
   <div class="section get-help">
     <div class="container">
-      <h3 class="value-multiplier">Développement web</h3>
-	  <h5 class="value-heading">WordPress & réseaux</h5>
-      <p class="section-description">Concervoir ensemble un site vitrine qui vous ressemble et le promouvoir sur vos réseaux.</p>
-      <a class="button button-primary" target="_blank" href="https://www.linkedin.com/in/v%C3%A9ronique-rouault-b80194110/">Contactez-moi...</a>
+      <h2 class="value-multiplier">Communication et développement Web</h2>
+	  <h5 class="value-heading">Votre site sous WordPress</h5>
+      <p class="section-description">Concervoir ensemble tous les élements de votre image de marque et la présence en ligne qui vous ressemble.</p>
+      <a class="button button-primary" href="#">En savoir plus...</a>
     </div>
   </div>
 
   <div class="section categories">
     <div class="container">
-      <h5 class="section-heading">2022@VéroniqueRolland</h5>
-      <p class="section-description">Com'vous émoi - communication visuelle et sonore</p>
+      <p class="section-description">2022@Com'vous émoi - communication visuelle et sonore</p>
     </div>
   </div>
 <!-- End Document

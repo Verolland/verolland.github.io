@@ -36,7 +36,6 @@
   background-size: cover;
   color: #fff;
   padding-bottom: 5rem;
-  opacity: 0.33;
 }
 .value-multiplier {
   margin-bottom: .5rem;
@@ -61,6 +60,7 @@
 .categories {
   background-image: url('../images/values-bg.jpg');
   background-size: cover;
+  height : 10px;
   color: #fff;
 }
 .categories .section-description { 

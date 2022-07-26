@@ -60,6 +60,7 @@
 .categories {
   background-image: url('../images/values-bg.jpg');
   background-size: cover;
+  height : 20px;
   color: #fff;
 }
 .categories .section-description { 
